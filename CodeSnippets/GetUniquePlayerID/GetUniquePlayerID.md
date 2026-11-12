@@ -4,7 +4,7 @@
 
 ## Usage
 
-Display the Unique Net ID for the player character that will be the same across sessions.
+Display the Unique Net ID for a player character that will be the same across sessions.
 Even if the player display name changes.
 
 
@@ -15,4 +15,4 @@ Even if the player display name changes.
 
 ## Example BP Copy Paste Code
 
-[[GetUniquePlayerID_Code.txt]]
+[[GetUniquePlayerID_Code.txt

@@ -1,0 +1,11 @@
+| Snippets:                                |
+| ---------------------------------------- |
+| [[ApplyBuffOnlyOnInitialTraitSelect]]    |
+| [[GetAllActorsOfClass_FromCurrentLevel]] |
+| [[GetPlayerGearSlotInfo]]                |
+| [[GetUniquePlayerID]]                    |
+| [[MessageAllClientsAssaultStyleText]]    |
+| [[OnLevelLoadedCallback]]                |
+| [[OnPlayerDeathDeadAliveChanged]]        |
+| [[SendtextChatMessageToAllPlayers]]      |
+| [[WaitForValidVariableGet]]              |

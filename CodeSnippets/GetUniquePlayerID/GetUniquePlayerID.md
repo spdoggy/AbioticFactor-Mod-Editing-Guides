@@ -1,6 +1,7 @@
 # Get Unique Player ID
 
 - Class: Abiotic Player State Object
+- Submitter: AlexTheDragonn, Abiscuits
 
 ## Usage
 

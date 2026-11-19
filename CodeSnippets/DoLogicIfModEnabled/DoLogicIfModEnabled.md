@@ -1,4 +1,4 @@
-# Wait for a Get result to be valid
+# Do Logic if Mod is Enabled
 
 - Class: Modio Subsystem
 - Submitter: Makerman991
@@ -7,13 +7,12 @@
 
 Determine if a specific mod id is loaded and then perform logic based on it.
 
-
 ## Example
 
-![[WaitForValidVariableGet.png]]
+![[DoLogicIfModEnabled.png]]
 
 
 ## Example BP Copy Paste Code
 
-[[WaitForValidVariableGet_Code.txt]]
+[[DoLogicIfModEnabled_Code.txt]]
 
